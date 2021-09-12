@@ -1,2 +1,2 @@
 # ForTech
-For my internship application at SHOP
+For my internship application at SHOP.
